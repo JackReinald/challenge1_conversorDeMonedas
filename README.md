@@ -40,6 +40,7 @@ El programa soporta las siguientes monedas:
 ## Autor
 <img src="https://github.com/JackReinald/challenge1_conversorDeMonedas/assets/83184806/3a231a4b-af87-4268-aa5b-4711b7d723d5" width=150><br><sub>JackReinald</sub>
 
+Tengo hambre xD
 
 
 
