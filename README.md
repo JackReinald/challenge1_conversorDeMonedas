@@ -21,7 +21,20 @@ El programa soporta las siguientes monedas:
 :construction::construction: Proyecto en construcción :construction::construction:
 
 ## Funcionalidades
-* Realizar la conversión entre dos divisas para una cantidad específica y obtener su respectiva tasa de cambio
-* Crear un archivo.json con los datos más importantes de la conversión
+- `Funcionalidad 1`: Realizar la conversión entre dos divisas para una cantidad específica y obtener su respectiva tasa de cambio.
+- `Funcionalidad 2`: Crear un archivo.json con los datos más importantes de la conversión.
+- `Funcionalidad 3`: Abortar la ejecución cuando se ingresa "salir", sin importar si las letras están en mayúsculas o minúsculas.
+
+## Ejemplos de las funcionalidades
+### `Funcionalidad 1`:
+![Ejecución normal del software](https://github.com/JackReinald/challenge1_conversorDeMonedas/assets/83184806/5e2fa195-bb87-4ac9-bbfa-ab96b745f2bc)
+### `Funcionalidad 2`:
+![JSON generado al transformar USD a COP](https://github.com/JackReinald/challenge1_conversorDeMonedas/assets/83184806/db11ed5f-51b4-48d4-9f09-f75c8ecec69b)
+### `Funcionalidad 3`:
+![Salir al ingresar primera divisa](https://github.com/JackReinald/challenge1_conversorDeMonedas/assets/83184806/558bbbdd-5f34-4acf-bf00-c4b3b48ea2b0) ![Salir al ingresar segunda divisa](https://github.com/JackReinald/challenge1_conversorDeMonedas/assets/83184806/3c1e9e90-7cc4-480e-a38e-143feea2a8ea)
+
+
+
+
 
 
