@@ -18,7 +18,7 @@ El programa soporta las siguientes monedas:
 #### USD - Dólar estadounidense
 
 ## Estado del proyecto
-:construction::construction: Proyecto en construcción :construction::construction:
+✔️✔️ TERMINADO ✔️✔️
 
 ## 🏗️ Funcionalidades 
 - `Funcionalidad 1`: Realizar la conversión entre dos divisas para una cantidad específica y obtener su respectiva tasa de cambio.
